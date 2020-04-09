@@ -17,9 +17,7 @@ sidebar:
 sections:
   - type: intro
     title: MDK HOME FINDERS
-    subtitle: |-
-      Cras aliquam amet adipiscing nibh faucibus suscipit ut Parturient  
-      col accumsan est arcu donec sed Eleifend Integer.
+    subtitle: WE BUY HOUSES CASH - ANY CONDITION - ANY PRICE
     section_id: intro
     background_style: style1
     actions:

@@ -100,11 +100,15 @@ sections:
         is_primary: false
     component: Features
   - type: contact
-    title: Get in touch
-    text: Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
-      mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget
-      hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit
-      quis lorem.
+    title: Get a Cash Offer TODAY!
+    text: >-
+      <!--StartFragment-->
+
+
+      When we make you a firm cash offer, you can trust that it won’t change when we close in as little as three weeks. You’ll pay no commissions, and we’ll pay typical closing costs.
+
+
+      <!--EndFragment-->
     section_id: three
     background_style: style1
     contact_list:
@@ -137,6 +141,16 @@ sections:
           icon: fa-linkedin
           url: "#"
     component: Contact
+  - type: intro
+    title: Intro Section
+    section_id: intro
+    background_style: style1
+    component: Intro
+  - type: intro
+    title: Intro Section
+    section_id: intro
+    background_style: style1
+    component: Intro
 menus:
   main:
     title: Home

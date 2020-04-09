@@ -122,7 +122,6 @@ sections:
         url: "#"
       - title: Phone
         text: (000) 000-0000
-      - title: Property Address
     social:
       title: Social
       social_icons:
@@ -142,16 +141,6 @@ sections:
           icon: fa-linkedin
           url: "#"
     component: Contact
-  - type: intro
-    title: Intro Section
-    section_id: intro
-    background_style: style1
-    component: Intro
-  - type: intro
-    title: Intro Section
-    section_id: intro
-    background_style: style1
-    component: Intro
 menus:
   main:
     title: Home

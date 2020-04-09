@@ -17,7 +17,7 @@ sidebar:
 sections:
   - type: intro
     title: MDK HOME FINDERS
-    subtitle: WE BUY HOUSES CASH - ANY CONDITION - ANY PRICE
+    subtitle: "## **WE BUY HOUSES CASH - ANY CONDITION - ANY PRICE**"
     section_id: intro
     background_style: style1
     actions:

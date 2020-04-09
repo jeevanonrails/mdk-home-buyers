@@ -56,7 +56,7 @@ sections:
 
 
           <!--EndFragment-->
-        icon: f0e0
+        icon: fa-address-card
       - title: Aliquam sed nullam
         text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
           turpis mauris, sed ultricies erat dapibus.

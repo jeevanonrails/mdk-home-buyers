@@ -72,7 +72,7 @@ sections:
 
 
           <!--EndFragment-->
-        icon: fa-calendar-lock
+        icon: fa-calendar-check
       - title: Sed erat ullam corper
         text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
           turpis mauris, sed ultricies erat dapibus.

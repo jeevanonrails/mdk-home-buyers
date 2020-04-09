@@ -3,7 +3,7 @@ title: Meet the Team
 content_img_path: /images/team-pic.jpg
 home_spotlights:
   enabled: true
-  weight: 1
+  weight: 0
   excerpt: >-
     <!--StartFragment-->
 

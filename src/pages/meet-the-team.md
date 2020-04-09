@@ -8,7 +8,7 @@ home_spotlights:
     <!--StartFragment-->
 
 
-    Sell with confidence & get cash fast! Our process is simple and transparent. We value you and your needs.
+    ### Sell with confidence & get cash fast! Our process is simple and transparent. We value you and your needs.
 
 
     <!--EndFragment-->

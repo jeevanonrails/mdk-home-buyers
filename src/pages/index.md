@@ -82,7 +82,7 @@ sections:
 
 
           <!--EndFragment-->
-        icon: fa-hand-holding-usd
+        icon: fa-money
       - title: Choose Closing Date
         text: >-
           <!--StartFragment-->

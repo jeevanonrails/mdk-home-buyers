@@ -19,7 +19,7 @@ sections:
     title: MDK HOME FINDERS
     subtitle: "## **WE BUY HOUSES CASH - ANY CONDITION - ANY PRICE**"
     section_id: intro
-    background_style: style4
+    background_style: style1
     actions:
       - label: Learn more
         url: "#one"

@@ -8,7 +8,7 @@ home_spotlights:
     <!--StartFragment-->
 
 
-    We listen! By listening to what our clients needs are we can ensure a smooth transition.
+    ### We listen! By listening to what our clients needs are we can ensure a smooth transition.
 
 
     <!--EndFragment-->

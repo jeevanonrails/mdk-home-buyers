@@ -72,7 +72,7 @@ sections:
 
 
           <!--EndFragment-->
-        icon: fa-calendar-check
+        icon: fa-calendar
       - title: Receive A Cash Offer
         text: >-
           <!--StartFragment-->

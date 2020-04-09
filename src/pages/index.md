@@ -47,12 +47,15 @@ sections:
     section_id: two
     background_style: style3
     features_list:
-      - title: Contact US
+      - title: Contact Us
         text: >-
           <!--StartFragment-->
 
 
           Submit our short contact form. We’ll contact you to gather the basic information needed to build our offer.
+
+
+          We quickly run the numbers and market analysis on your area and then walk you through them.
 
 
           <!--EndFragment-->

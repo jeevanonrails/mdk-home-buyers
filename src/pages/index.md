@@ -47,10 +47,16 @@ sections:
     section_id: two
     background_style: style3
     features_list:
-      - title: Lorem ipsum amet
-        text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-          turpis mauris, sed ultricies erat dapibus.
-        icon: fa-code
+      - title: Contact US
+        text: >-
+          <!--StartFragment-->
+
+
+          Submit our short contact form. We’ll contact you to gather the basic information needed to build our offer.
+
+
+          <!--EndFragment-->
+        icon: f0e0
       - title: Aliquam sed nullam
         text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
           turpis mauris, sed ultricies erat dapibus.

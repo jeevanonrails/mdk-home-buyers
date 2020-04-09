@@ -108,6 +108,9 @@ sections:
       When we make you a firm cash offer, you can trust that it won’t change when we close in as little as three weeks. You’ll pay no commissions, and we’ll pay typical closing costs.
 
 
+      Simply put the property address you want to sell in the "message" area.
+
+
       <!--EndFragment-->
     section_id: three
     background_style: style1

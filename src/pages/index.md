@@ -92,7 +92,7 @@ sections:
 
 
           <!--EndFragment-->
-        icon: fa-hands-helping
+        icon: fa-dollar
     actions:
       - label: Learn more
         url: /generic

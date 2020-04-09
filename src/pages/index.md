@@ -92,7 +92,7 @@ sections:
 
 
           <!--EndFragment-->
-        icon: fa-handshake
+        icon: fa-hands-helping
     actions:
       - label: Learn more
         url: /generic

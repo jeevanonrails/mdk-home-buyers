@@ -1,19 +1,23 @@
 ---
-title: Sed ipsum dolor
-content_img_path: images/pic04.jpg
+title: Meet the Team
+content_img_path: /images/team-pic.jpg
 home_spotlights:
   enabled: true
   weight: 1
   excerpt: >-
-    Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
-    mauris, eu ultricies erat malesuada quis. Aliquam dapibus.
+    <!--StartFragment-->
+
+
+    Sell with confidence & get cash fast! Our process is simple and transparent. We value you and your needs.
+
+
+    <!--EndFragment-->
   home_img:
-    path: images/pic01.jpg
+    path: /images/front-pic.jpg
     data_position: center center
-    url: '#'
+    url: "#"
 template: page
 ---
+MDK Home Finders are professional home buyers operating in Atlanta and surrounding areas. Our unique process allows you to sell directly to us as your buyer. We are not real estate agents and we do not list homes, so there is no waiting around to attract a third party buyer. Once you contact us, we make an offer within 24 hours, and we never charge you any fees or commissions. Our novel approach is the easiest way to save thousands of dollars when selling your home.
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique.
-
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+We buy your Atlanta home as-is, so there are no cleaning or repair tasks to be made by you. We buy houses in any condition, regardless of how ugly they look, providing the easiest way to sell your house in Atlanta fast for cash.

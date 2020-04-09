@@ -3,20 +3,20 @@ title: Home
 sidebar:
   entries:
     - title: Welcome
-      url: '#intro'
+      url: "#intro"
       is_primary: true
     - title: Who we are
-      url: '#one'
+      url: "#one"
       is_primary: false
     - title: What we do
-      url: '#two'
+      url: "#two"
       is_primary: false
     - title: Get in touch
-      url: '#three'
+      url: "#three"
       is_primary: false
 sections:
   - type: intro
-    title: Hyperspace
+    title: MDK HOME FINDERS
     subtitle: |-
       Cras aliquam amet adipiscing nibh faucibus suscipit ut Parturient  
       col accumsan est arcu donec sed Eleifend Integer.
@@ -24,7 +24,7 @@ sections:
     background_style: style1
     actions:
       - label: Learn more
-        url: '#one'
+        url: "#one"
         is_scrolly: true
         is_primary: false
     component: Intro
@@ -35,8 +35,7 @@ sections:
     component: Spotlights
   - type: features
     title: What we do
-    subtitle: >-
-      Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
+    subtitle: Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
       mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget
       hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit
       quis lorem.
@@ -44,34 +43,28 @@ sections:
     background_style: style3
     features_list:
       - title: Lorem ipsum amet
-        text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
+        text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
+          turpis mauris, sed ultricies erat dapibus.
         icon: fa-code
       - title: Aliquam sed nullam
-        text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
+        text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
+          turpis mauris, sed ultricies erat dapibus.
         icon: fa-lock
       - title: Sed erat ullam corper
-        text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
+        text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
+          turpis mauris, sed ultricies erat dapibus.
         icon: fa-cog
       - title: Veroeros quis lorem
-        text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
+        text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
+          turpis mauris, sed ultricies erat dapibus.
         icon: fa-desktop
       - title: Urna quis bibendum
-        text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
+        text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
+          turpis mauris, sed ultricies erat dapibus.
         icon: fa-chain
       - title: Aliquam urna dapibus
-        text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
+        text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
+          turpis mauris, sed ultricies erat dapibus.
         icon: fa-diamond
     actions:
       - label: Learn more
@@ -81,8 +74,7 @@ sections:
     component: Features
   - type: contact
     title: Get in touch
-    text: >-
-      Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
+    text: Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
       mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget
       hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit
       quis lorem.
@@ -96,7 +88,7 @@ sections:
           USA
       - title: Email
         text: user@Hyperspace.tld
-        url: '#'
+        url: "#"
       - title: Phone
         text: (000) 000-0000
     social:
@@ -104,19 +96,19 @@ sections:
       social_icons:
         - title: Twitter
           icon: fa-twitter
-          url: '#'
+          url: "#"
         - title: Facebook
           icon: fa-facebook
-          url: '#'
+          url: "#"
         - title: GitHub
           icon: fa-github
-          url: '#'
+          url: "#"
         - title: Instagram
           icon: fa-instagram
-          url: '#'
+          url: "#"
         - title: LinkedIn
           icon: fa-linkedin
-          url: '#'
+          url: "#"
     component: Contact
 menus:
   main:

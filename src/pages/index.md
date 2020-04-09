@@ -33,10 +33,17 @@ sections:
     component: Spotlights
   - type: features
     title: What we do
-    subtitle: Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
-      mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget
-      hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit
-      quis lorem.
+    subtitle: >-
+      <!--StartFragment-->
+
+
+      MDK Home Finders is the trusted solution in Atlanta to skip the stress, delays and uncertainty of selling homes the traditional way. By selling your house “as is” for cash to us, you won’t need to bother with repairs, cleaning or even showings. There are no commissions, we pay typical closing costs and can close quickly. It’s that easy.
+
+
+      You can trust our firm offer will not change before closing, and you won’t be hit by any of those surprise fees. We’ll be there to walk you through each step of the sale.
+
+
+      <!--EndFragment-->
     section_id: two
     background_style: style3
     features_list:

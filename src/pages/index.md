@@ -73,22 +73,26 @@ sections:
 
           <!--EndFragment-->
         icon: fa-calendar-check
-      - title: Sed erat ullam corper
-        text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-          turpis mauris, sed ultricies erat dapibus.
-        icon: fa-cog
-      - title: Veroeros quis lorem
-        text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-          turpis mauris, sed ultricies erat dapibus.
-        icon: fa-desktop
-      - title: Urna quis bibendum
-        text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-          turpis mauris, sed ultricies erat dapibus.
-        icon: fa-chain
-      - title: Aliquam urna dapibus
-        text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-          turpis mauris, sed ultricies erat dapibus.
-        icon: fa-diamond
+      - title: Receive A Cash Offer
+        text: >-
+          <!--StartFragment-->
+
+
+          Receive a written, no-obligation offer for cash representing the fair value of your home.
+
+
+          <!--EndFragment-->
+        icon: fa-money-bill-alt
+      - title: Choose Closing Date
+        text: >-
+          <!--StartFragment-->
+
+
+          We close at a Creditable Title/Escrow company in as few as 7 days and get you cash for your house.
+
+
+          <!--EndFragment-->
+        icon: fa-handshake
     actions:
       - label: Learn more
         url: /generic

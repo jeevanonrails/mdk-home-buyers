@@ -93,11 +93,7 @@ sections:
 
           <!--EndFragment-->
         icon: fa-dollar
-    actions:
-      - label: Learn more
-        url: /generic
-        is_scrolly: false
-        is_primary: false
+    actions: []
     component: Features
   - type: contact
     title: Get a Cash Offer TODAY!
